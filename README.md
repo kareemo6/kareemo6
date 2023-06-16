@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kareemo6
-- 🤷🏽‍ I'm kinda learning a lot (GameDev(C#/C++) and WebDev(HTML, JS, Python)).
+- 🤷🏽‍ Aspiring game developer, doing what programmers do best and gaining all the knowledge I can, never mastering any cause it keeps changing lol.
 - ✉ abiodunjr@gmail.com
 
 <!---
